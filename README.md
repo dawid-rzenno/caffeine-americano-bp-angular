@@ -1,5 +1,7 @@
 # Americano
 
+![pipeline](https://github.com/dawid-rzenno/caffeine-americano-bp-angular/actions/workflows/main.yml/badge.svg)
+
 This project blueprint was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 
 ## Development server
